@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nishant Raj</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantraj29&label=Profile%20views&color=0e75b6&style=flat" alt="nishantraj29" /> </p>
 
-- 🧑‍🎓 Computer Science student specializing in Artificial Intelligence at Netaji Subhash University of Technology,New Delhi.
+- 🧑‍🎓 Computer Science student specializing in Artificial Intelligence at NSUT **(Netaji Subhash University of Technology,Delhi)**
 
-- 🌱 Believes that coding is not just about solving problems; it's about creating solutions that make a difference in people's lives.
+- 🌱 Believes that coding is not just about solving problems; **it's about creating solutions that make a difference in people's lives.**
 
-- 🔥 Keen problem solver with a passion for learning new algorithms in DSA and Machine Learning.
+- 🔥 Keen problem solver with a passion for learning new algorithms in **DSA and Machine Learning.**
 
-- 🧑‍💻 Web development enthusiast with experience in HTML, CSS, JavaScript, Node.js, and React.
+- 🧑‍💻 Web development enthusiast with experience in **HTML, CSS, JavaScript, Node.js, and React.**
 
 - ⚡ Fun fact **I like my code like I like my coffee - short, sweet, and easy to understand.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishant-raj95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-raj95/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishant-raj95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-raj95" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
