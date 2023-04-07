@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nishant Raj</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantraj29&label=Profile%20views&color=0e75b6&style=flat" alt="nishantraj29" /> </p>
 
+- 🧑‍🎓 Computer Science student specializing in Artificial Intelligence at Netaji Subhash University of Technology,New Delhi.
+
+- 🌱 Believes that coding is not just about solving problems; it's about creating solutions that make a difference in people's lives.
+
+- 🔥 Keen problem solver with a passion for learning new algorithms in DSA and Machine Learning.
+
+- 🧑‍💻 Web development enthusiast with experience in HTML, CSS, JavaScript, Node.js, and React.
+
 - ⚡ Fun fact **I like my code like I like my coffee - short, sweet, and easy to understand.**
 
 <h3 align="left">Connect with me:</h3>
